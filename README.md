@@ -134,4 +134,4 @@ Use a new filename for each intentionally separate session. Stop the app before 
 
 ## Documentation scope
 
-Prepared from source inspection of the supplied ZIP. Preservation and syntax checks are documented in `docs/VERIFICATION.md`. No new physical hardware validation, brightness repair, calibration or performance measurement is claimed.
+Prepared from source inspection of the supplied ZIP. Preservation and syntax checks are documented in `docs/VERIFICATION.md`.
