@@ -4,8 +4,6 @@
 
 This project detects occupancy at two weighing positions, controls one LED per position, shows both states on an OLED, and records measurements and occupancy durations in a local Windows dashboard.
 
-This documentation describes **smart_buffer_komplett(3).zip**, supplied on 30 September 2026. The application source files and the two subsequently supplied driver files have not been modified. It documents the submitted implementation, not the separate calibration package proposed earlier.
-
 ## Start here
 
 | File | Purpose |
